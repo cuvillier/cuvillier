@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cuvillier
 - 👀 I’m interested in solution architecture, agility, organic farming, olive oil production
-- 🌱 I’m currently learning Spring Integration to handle IOT message flow
-- 💞️ I’m looking to collaborate on IOT solutions
-- 📫 How to reach me +33651071207 or +34 628 701 408 with Whatsapp
+- 🌱 I’m working on hexa / clean design projects
+- 💞️ I’m looking to collaborate as techLead, solution architect or senior java dev.
+- 📫 You can Whatsapp me at +34 628 701 408
 
 <!---
 cuvillier/cuvillier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
